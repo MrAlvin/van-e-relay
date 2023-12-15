@@ -11,6 +11,8 @@ Being able to switch on/off on the plus wire is of particular use in Cars and Va
 > The design of these PCBs are inspired by [Everlanders.com](https://everlanders.com/)
 > 
 > Especially this YouTube Video: [Designing and Building Custom P-Channel Driver PCB's in Mexican Lockdown](https://www.youtube.com/watch?v=AL1_fvPZXMk&t=2029s&ab_channel=Everlanders)
+>
+> These PCBs are however a complete re-design. Only some placements, of some of the components, are the same. 
 
 So far this collection of PCBs consists of 
  - Version C3
