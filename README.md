@@ -3,10 +3,12 @@ These boards are 8-channel Electronic Relays - where you can turn things on/off 
 
 ```
  Q: What is this board good for?
- A: Automotive use - as this board turns power on/off on the plus wire
+ A: Automotive (Car, Van and RV) use - as this board turns power on/off on the plus wire
 ```
 
 Being able to switch on/off on the plus wire is of particular use in Cars and Vans, as the minus wire is typically replaced by using the metallic chassis of a car or van. And thus it becomes very necessary to be able to operate on/off switches on the plus wire. 
+
+These boards will work for both 12V and 24V battery systems.
 
 > The design of these PCBs are inspired by [Everlanders.com](https://everlanders.com/)
 > 
@@ -16,9 +18,16 @@ Being able to switch on/off on the plus wire is of particular use in Cars and Va
 
 So far this collection of PCBs consists of 
  - Version C3
- - Version C3-F (a fuse on the PCB - for each channel)
- - Version C4 (dual MOSFETs - for each channel) 
- - Version C4-F (dual MOSFETs and a fuse on the PCB - for each channel)
+    - 104 x 80 mm PCB - 114 x 80 mm Envelope
+ - Version C3-F 
+    - a fuse on the PCB - for each channel
+    - 104x 80 mm PCB - 114 x 80 mm Envelope
+ - Version C4
+    - dual MOSFETs - for each channel
+    - 100 x 84 mm PCB - 100 x 84 mm Envelope
+ - Version C4-F
+    - dual MOSFETs and a fuse on the PCB - for each channel
+    - 100 x 84 mm PCB - 100 x 84 mm Envelope
 
 
 These PCBs can be made/configured in different modes of how many ampere each channel can handle. 
