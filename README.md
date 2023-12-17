@@ -19,9 +19,6 @@ These boards will work for both 12V and 24V battery systems.
 So far this collection of PCBs consists of 
  - Version C3
     - 104 x 80 mm PCB - 114 x 80 mm Envelope
- - Version C3-F 
-    - a fuse on the PCB - for each channel
-    - 104x 80 mm PCB - 114 x 80 mm Envelope
  - Version C4
     - dual MOSFETs - for each channel
     - 100 x 84 mm PCB - 100 x 84 mm Envelope
